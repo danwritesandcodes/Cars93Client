@@ -2,13 +2,6 @@
 
 This is a simple, front end for the Cars93 API Endpoint server at [https://github.com/danwritesandcodes/Cars93APIEndpoint](https://github.com/danwritesandcodes/Cars93APIEndpoint). The application is written using the React JavaScript library and requires NodeJS to build.
 
-## Features
-
-* Mobile-ready
-
-* 
-
-
 ## Prerequisites
 
 This application requires NodeJS. To install NodeJS, see [https://nodejs.org](https://nodejs.org) for more information.
